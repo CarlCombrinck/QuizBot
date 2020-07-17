@@ -1,0 +1,15 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "Bot for managing Discord Quizes",
+  "engines" : { "node" : "12.13.1", "npm" : "6.12.1" },
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Combrinck",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
