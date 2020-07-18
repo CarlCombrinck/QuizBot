@@ -1,3 +1,4 @@
 {
-    "prefix": "&"
+    "prefix": "&",
+    "token" : "BOT_TOKEN_GOES_HERE"
 }
