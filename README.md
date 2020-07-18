@@ -2,7 +2,10 @@
 
 ## Description
 This bot allows for the hosting of a trivia night on Discord. It provides commands and functionality for tasks such as displaying questions, retrieving answers, grading answers, displaying a leaderboard and more.
-The bot is - currently - only useable by a single guild due to its design and lack of a persistent storage solution as it was originally only meant to serve a single Discord guild whilst being run on the user's computer. It has not been deployed due to the above constraints but some redesigning could see this change.
+The bot is - currently - only useable by a single guild due to its design and lack of a persistent storage solution as it was originally only meant to serve a single Discord guild whilst being run locally by the user. It has not been deployed due to the above constraints but some redesigning could see this change.
+
+## Command List
+See the ![Command.pdf](/docs/Commands.pdf) for the list of supported commands.
 
 ## TODO
 ### Commands
