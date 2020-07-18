@@ -6,23 +6,23 @@ The bot is - currently - only useable by a single guild due to its design and la
 
 ## TODO
 ### Commands
-- [] Improve the mute, unmute, split and regroup commands. *Currently awaits each promise to resolve to avoid exceeding rate limit*
-- [] Add ability to ask mutliple choice questions.
-- [] Add speed round functionality.
-- [] Improve command syntax.
+- [ ] Improve the mute, unmute, split and regroup commands. *Currently awaits each promise to resolve to avoid exceeding rate limit*
+- [ ] Add ability to ask mutliple choice questions.
+- [ ] Add speed round functionality.
+- [ ] Improve command syntax.
 
 ### Embeds
-- [] Add multiple choice embed.
+- [ ] Add multiple choice embed.
 
 ### Code Improvements
-- [] OOP needs some work/rethinking. *All information pertaining to a quiz is currently stored in a single QuizGuild object*
-- [] Improve error and promise handling.
-- [] Add comments to code.
-- [] Simplify function parameters. *Some redundancies are present*
+- [ ] OOP needs some work/rethinking. *All information pertaining to a quiz is currently stored in a single QuizGuild object*
+- [ ] Improve error and promise handling.
+- [ ] Add comments to code.
+- [ ] Simplify function parameters. *Some redundancies are present*
 
 ### Long Term
-- [] Introduce persistent storage.
-- [] Add question bank.
-- [] Deploy?
+- [ ] Introduce persistent storage.
+- [ ] Add question bank.
+- [ ] Deploy?
 
 ###### Version 1.0.0
